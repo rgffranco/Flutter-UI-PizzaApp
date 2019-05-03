@@ -13,3 +13,8 @@ This repository hosts the complete code of the demo flutter app that I built, re
 
 <img src="https://github.com/Ronak99/Flutter-UI-PizzaApp/blob/master/assets/ss/screen3.PNG" align="left" width="20%" >
 
+
+
+# Rogério começa a fazer as alterações
+É aqui que a brincadeira começa a ficar mais legal.
+As pessoas precisam entender que tudo vai dar certo. Flutter é legal, flutter é sensacional.
